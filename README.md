@@ -58,10 +58,6 @@ If you want to dive into code in more detail here is the outline of the reposito
     * run.py: in this file we declare the simulation execution
     * server.py: in this file visualisation for our Mesa Geo model is implemented
 
-## Important Links
-- Notes: https://docs.google.com/document/d/1djK0TwGeARVyFwg5YD1hHhqHEO6rcuoJM2oxxlm5gyk/edit
-- Overleaf: https://www.overleaf.com/1611799474njnmvddrkcck
-- Slides: https://docs.google.com/presentation/d/1mKZt-l1SZImBfMfunaePMaebxOk8ldWtiIUQf8XfFts/edit?usp=sharing
 
 ## Licence
 [MIT](https://choosealicense.com/licenses/mit/)
