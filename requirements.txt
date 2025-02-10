@@ -1,0 +1,12 @@
+Mesa==1.1.1
+Mesa_Geo==0.4.0
+numpy==1.23.5
+pandas==1.5.3
+SALib==1.4.7
+Shapely==1.8.4
+xyzservices==2022.9.0
+pyarrow==11.0.0
+matplotlib==3.6.3
+tqdm==4.64.1
+seaborn==0.12.2
+scipy==1.10.0
